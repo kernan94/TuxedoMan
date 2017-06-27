@@ -5,7 +5,7 @@ run "npm install" from bot root directory, this will install all the dependencie
 
 in config.json enter your token in the token field, you can also rename the directories and files here
 run "npm test" to check your code against standard.js
-run "npm start" to run the code through nodemon  
+run "npm start" to run the code
 
 for autoplay:  
 
