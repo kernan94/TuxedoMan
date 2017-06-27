@@ -1,1 +1,1 @@
-web: node TuxedoMan.js
+worker: node TuxedoMan.js
